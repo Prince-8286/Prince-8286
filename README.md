@@ -18,8 +18,8 @@
 
 - 🔭 **AI Engineer** focused on **LLM apps, RAG & AI Agents**
 - 🛠️ Building with **Python, LangChain, MCP, OKF, n8n + Zoho**
-- 📚 Using **OKF — Open Knowledge Format** for clean, portable agent knowledge
-- 🌱 Currently exploring **Agentic RAG, MCP servers, A2A**
+- 📚 learning **OKF — Open Knowledge Format** for clean, portable agent knowledge
+- 🌱 Currently using **Agentic RAG, MCP servers, A2A**
 - 👯 Open to collaborate on **agents & automation projects**
 - 💬 Ask me about **LLMs, RAG, AI Agents, n8n, OKF**
 - 📫 princep22196@gmail.com
